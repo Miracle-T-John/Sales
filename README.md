@@ -80,4 +80,4 @@ The analysis results  are summarized as follows:
 • Monitor KPIs Regularly: Establish a dashboard for real time performance tracking, in order to make data driven decisions
 
 ### Limitations
- I had to recalculte the revenue, profit columns due to wrong calculations.  There were missig columns that  could have helep understand each unique customer's purchase patterns.
+ I had to recalculte the revenue, profit columns due to wrong calculations.  There were missing columns that  could have help understand each unique customer's purchase patterns.
